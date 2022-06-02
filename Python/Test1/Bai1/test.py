@@ -13,3 +13,6 @@ while True:
 
 print("Maximum is", max(a))
 print("Minimum is", min(a))
+
+print("hello")
+print("Luc")
