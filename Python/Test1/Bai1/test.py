@@ -16,3 +16,5 @@ print("Minimum is", min(a))
 
 print("hello")
 print("Luc")
+
+print("Long")
